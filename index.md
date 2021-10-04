@@ -1,10 +1,10 @@
-### PORTFOLIO
+## IMAGES
 
-## Sandomierz
+### Sandomierz
 
-## Icons
+### Icons
 
-## Digital art
+### Digital art
 
 <img src="Henry_2.jpg" alt="Italian Trulli">
 
