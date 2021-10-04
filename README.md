@@ -1,2 +1,2 @@
 # porftolio.github.io
-Portfolio
+Personal portfolio of Paweł Ciosmak
