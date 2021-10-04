@@ -5,7 +5,7 @@ My personal porftolio.
 
 Here are images of my drawings and paintings.
 
-<img src="image.jpg" alt="Italian Trulli">
+<img src="Henry_2.jpg" alt="Italian Trulli">
 
 
 ```markdown
