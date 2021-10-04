@@ -3,9 +3,7 @@ Paweł Ciosmak
 
 My personal porftolio.
 
-You can use the [editor on GitHub](https://github.com/Pawel-Robert/porftolio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are images of my drawings and paintings.
 
 ### Markdown
 
