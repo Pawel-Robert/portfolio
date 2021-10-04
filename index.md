@@ -5,6 +5,8 @@ My personal porftolio.
 
 Here are images of my drawings and paintings.
 
+<img src="image.jpg" alt="Italian Trulli">
+
 
 ```markdown
 Syntax highlighted code block
